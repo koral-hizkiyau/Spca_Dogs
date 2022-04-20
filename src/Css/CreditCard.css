@@ -1,0 +1,30 @@
+
+.Credit {
+   text-align: center;
+  border: 1px solid #97BA00;
+  width: 350px;
+  margin: auto;
+  border-radius: 1em;
+  font-size: 13px;
+}
+.btnCard{
+  background-color:white;
+  border: 2px solid rgb(151, 186, 0);
+  font-size: 15px;
+  font-family: 'Comfortaa', cursive;
+  margin:auto;
+  display:block;
+  }
+
+  .btnCard:hover,.btn1:hover {
+    background-color: #97BA00;
+    color: black;
+  
+  }
+  .btn1{
+    font-family: 'Comfortaa', cursive;
+    margin:auto;
+  display:block;
+  }
+
+ 
