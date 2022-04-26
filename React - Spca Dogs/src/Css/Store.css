@@ -1,0 +1,118 @@
+.Store {
+  font-family: 'Comfortaa', cursive;
+  padding: 0;
+  margin: 0;
+  display: flex;
+flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 1%;
+
+  }
+  
+ 
+
+  .row2{ 
+    
+    background-color: whitesmoke; 
+    border-style: groove;
+    border-color: #97BA00;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+     width: 30%;
+     margin-top: 1%;
+
+
+
+  }
+  .btns{
+    display: flex;
+    flex-flow: row;
+    background-color:white;
+    border: 2px solid rgb(151, 186, 0);
+    font-size: 16px;
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
+  align-self: flex-end;
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+
+  }
+ .btn1{
+   justify-content: center;
+ }
+   
+  .btn1:hover {
+    background-color: #97BA00;
+    color: black;
+  
+  }
+
+  .name
+ {
+  font-weight: bold;
+  text-decoration: underline; 
+  font-size: 18px;
+  padding: 0;
+  align-self: center;
+    flex:1;
+    position: relative;
+}
+.price,.info,.ingredients,.quantity{
+  padding: 0;
+  align-self: center;
+    flex:1;
+    position: relative;
+}
+.body{
+  color: black;
+  font-size: 20px;
+}
+.dialog {
+  box-shadow: 0 8px 6px -6px #97BA00;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom:0;
+}
+
+.empty{
+  font-size: 24px;
+  text-align: center;
+  margin-top: 10%;
+}
+.total{
+  font-size: 24px;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+font-family: cursive;
+
+}
+.btnPay{
+  background-color:white;
+  border: 2px solid rgb(151, 186, 0);
+  font-size: 25px;
+  font-family: 'Comfortaa', cursive;
+  margin:auto;
+  display:block;
+
+
+}
+
+.btnPay:hover,
+.btnDelAll:hover {
+  background-color: #97BA00;
+  color: black;
+
+}
+
+.btnDelAll{
+  background-color:white;
+  border: 2px solid rgb(151, 186, 0);
+  font-size: 14px;
+  font-family: 'Comfortaa', cursive;
+  float: left;
+}
