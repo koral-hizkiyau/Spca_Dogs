@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+.Home {
+  text-align: center;
+}
+
+
+  .pet{
+    font-size: 15px;
+  margin-top: 10%;
+  font-family: 'Comfortaa', cursive;
+}
+  .form{
+    text-align: center;
+    font-size: 20px;
+    padding: 1%;
+    border-style: solid;
+    border-radius: 1em;
+  border-width: 5px;
+  
+  }
+  .text-muted{
+    text-align:left ;
+  }
+  .call{
+    margin: 10%;
+  background-color: #97BA00;
+  font-size: 22px;
+  font-family: 'Comfortaa', cursive;
+}
+ 
+  .weather{
+    font-size: 20px;
+}
+
+.map {
+  height: 60%;
+}
+
+
+
+.slick-slide img {
+  margin: auto;
+}
+
