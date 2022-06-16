@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+.Dogs {
+  font-family: 'Comfortaa', cursive;
+  padding: 0;
+  margin: 0;
+  display: flex;
+flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 1%;
+
+}
+
+
+.row1{ 
+    border-style: groove;
+    border-color: #97BA00;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+     width: 30%;
+     margin-top: 1%;
+
+  }
+  
+  .btn2{
+
+      background-color:white;
+      border: 2px solid rgb(151, 186, 0);
+      font-size: 16px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+    align-self: flex-end;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+    }
+   
+  .btn2:hover {
+    background-color:rgb(151, 186, 0);
+  
+  }
+  
+.title
+ {
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+.title,.gender,.age {
+  padding: 0;
+align-self: center;
+  flex:1;
+  position: relative;
+}
+
+
+.dialog {
+  box-shadow: 0 8px 6px -6px #97BA00;
+  position: fixed;
+  left: 0;
+  top: 200px;
+  bottom:0;
+}
+
+.images {
+  width: 500px;
+}

@@ -1,0 +1,211 @@
+[{
+    "id":1,  
+    "name": "Healthy snack with seaweed, beets and turmeric",
+    "price": "9.00 $",
+    "ingredients":"corn flour, tapioca flour, natural peanut butter, eggs, beets, turmeric, chlorophyll, seaweed, vegetable starch, dietary fiber, bonito fish chips.",
+    "info": "100g",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300636/extra_large/ce735a6403a64d9d7dd257fdb0f95d41.jpg",
+    "quantity": "1"
+    
+  },
+  {
+    "id":2,
+    "name": "Healthy snack with Apple, coconut oil, carrots and cranberries",
+    "price": "9.00 $",
+    "ingredients":"Whole spelled flour, natural apple puree, coconut oil, carrots, oats, mint, parsley, cranberry, cinnamon, nutritional fiber.",
+    "info": "100g",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300638/extra_large/88cc1074d91d8d66714d58cbb702e71e.jpg",
+    "quantity": "1"
+
+  },
+  {
+    "id":3,
+    "name": "Healthy snack with Carob chia seeds, and natural peanut butter",
+    "price": "9.00 $",
+    "ingredients": "Spelled flour, chia seeds, natural peanut butter, carob, dietary fiber, bonito fish chips.",
+    "info": "100g",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300670/original/1b4cf76f4d2661aaa5a2fac46f578ee8.jpg",
+    "quantity": "1"
+  },
+  {
+    "id":4,
+    "name": "Healthy snack with Turmeric, coconut oil, seaweed and rosemary",
+    "price": "9.00 $",
+    "ingredients": "Rye flour, whole spelled flour, coconut oil, turmeric, seaweed, rosemary, dietary fiber, bonito fish chips.",
+    "info": "100g",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300657/extra_large/906dd338967a6012afd9f598c5d09bde.jpg",
+    "quantity": "1"
+  }
+,{
+  "id":5,
+    "name": "Duck-coated bone",
+    "price": "4.00 $",
+    "ingredients": "Unprocessed skin, real duck meat, plant nutritional protein percentage: 70% protein, 4% ash, 0.3% fat, 14% wetness, 3% fiber.",
+    "info": "25cm",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4523449/original/dc980113454c28501681453e7d414c2f.jpg",
+    "quantity": "1"
+
+
+  }
+,{
+  "id":6,
+    "name": "Duck skin beef stick",
+    "price": "5.00 $",
+    "ingredients":"Protein 70, Fat 0.3, Ash 4, Fiber 3, Moisture 14 Components: Unprocessed Skin, Real Duck Meat, Vegetable Protein.",
+    "info": "20cm",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4523394/extra_large/f07dfb4a3466882ab0f83cf0396ef3ee.jpg",
+    "quantity": "1"
+
+  }
+,{
+  "id":7,
+    "name": "Dental Toothbrush 1 Unit Size L",
+    "price": "3.00 $",
+    "ingredients":"Potato flour, pea flour, chicken, glycerin, vegetable oil, beer yeast, caramel, dried tomato spinach.",
+    "info": "10cm",
+    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/3626196/extra_large/c92bbe24c0fa1978f7662a308da28998.jpg",
+    "quantity": "1"
+
+  },
+  {
+    "id":8,
+      "name": "Bone Donut Chicken Coating",
+      "price": "4.00 $",
+      "ingredients":"Nutritional Content Percent: Protein 70, Fat 0.18, Ash 2, Fiber 0.7, Moisture 14 Components: Unprocessed Skin, Chicken Meat, Vegetable Protein.",
+      "info": "65g",
+      "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4523425/extra_large/df2d12008cb19e8f7308cd5eb97c1995.jpg",
+      "quantity": "1"
+  
+    },
+    {
+      "id":9,
+        "name": "Duck-flavored sushi-shaped dog snack",
+        "price": "8.00 $",
+        "ingredients": "duck, deep water fish, potato starch, glycerin, sorbitol, pea protein, salt. Percent nutritional content: Crude protein: 30%, Crude fat: 3%, Crude fiber: 1.5% Crude ash: 4%, Moisture: 25%",
+        "info": "100g",
+        "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4086207/extra_large/94c3a7c81b4fabbc4f7fd5a7e8832af1.jpg",
+        "quantity": "1"
+    
+      },
+      {
+        "id":10,
+          "name": "A snack for the ravid dog is a duck wrapped in calcium",
+          "price": "8.00 $",
+          "ingredients": "Calcium bone, duck, potato starch, sorbitol, glycerine. Percent nutritional content: Crude protein: 25%, Crude fat: 4%, Crude fiber: 1% Crude ash: 5%, Moisture: 23%.",
+          "info": "100g",
+          "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4086143/extra_large/9320a45878596af445b3842266b238cf.jpg",
+          "quantity": "1"
+      
+        },
+        {
+          "id":11,
+            "name": "A snack for the River Dog sticks wrapped in lamb and rice",
+            "price": "8.00 $",
+            "ingredients": "Processed skin, lamb, rice, glycerine, sorbitol. Percent nutritional content: Crude protein: 50%, Crude fat: 6%, Crude fiber: 4% Crude ash 1%, Moisture: 20%.",
+            "info": "100g",
+            "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4086240/original/8817557a06042f85fe881d4fc551fb95.jpg",
+            "quantity": "1"
+        
+          },
+          {
+            "id":12,
+              "name": "RIVERD JERKY DOG Snack chicken breast",
+              "price": "8.00 $",
+              "ingredients": "Chicken, pea protein, glycerin, sorbitol. Percent nutritional content: Crude protein: 40%, Crude fat 6%, Crude fiber: 4% Crude ash: 1%, Moisture: 28%.",
+              "info": "100g",
+              "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4086176/extra_large/74c981bd540f7c722fc6f78b15e3fe72.jpg",
+              "quantity": "1"
+          
+            },
+            {
+              "id":13,  
+              "name": "RIVER DOG Snack for salmon cubes",
+              "price": "8.00 $",
+              "ingredients":"Calcium bone, duck, potato starch, sorbitol, glycerine. Percent nutritional content: Crude protein: 25%, Crude fat: 4%, Crude fiber: 1% Crude ash: 5%, Moisture: 23%.",
+              "info": "100g",
+              "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4086155/original/5ab2d5fb1d21af43472cce70a3c823e6.jpg",
+              "quantity": "1"
+
+                       
+            },
+            {
+              "id":14,
+              "name": "Beef-flavored sticks snack",
+              "price": "9.00 $",
+              "ingredients":"Chicken, Whole Wheat, Soy, Milk Butter, Sugar, Glycerin, Potassium Sorbet (as a preservative), Salt, Flavors and Smell. Nutritional content: protein 14%, fat 0.8%, cellulose 1%, moisture 20%.",
+              "info": "175g",
+              "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4297605/extra_large/969db6223dc8b079e376e8879d3342b8.jpg",
+              "quantity": "1"
+            },
+            {
+              "id":15,
+              "name": "Chicken flavored snack bar",
+              "price": "9.00 $",
+              "ingredients": "Chicken, Whole Wheat, Soy, Milk Butter, Sugar, Glycerin, Potassium Sorbet (as a preservative), Salt, Flavors and Smell. Nutritional content: protein 14%, fat 0.8%, cellulose 1%, moisture 20%.",
+              "info": "175g",
+              "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4297612/extra_large/f0469943edfa2364bd375b9b339fe01d.jpg",
+              "quantity": "1"
+            },
+            {
+              "id":16,
+                "name": "Heavy-flavored snack sticks",
+                "price": "9.00 $",
+                "ingredients": "Chicken, Whole Wheat, Soy, Milk Butter, Sugar, Glycerin, Potassium Sorbet (as a preservative), Salt, Flavors and Smell. Nutritional content: protein 14%, fat 0.8%, cellulose 1%, moisture 20%.",
+                "info": "175g",
+                "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4297631/extra_large/1a3602be886fac904e6e297ec13c8438.jpg",
+                "quantity": "1"
+
+              },
+              {
+                "id":17,
+                  "name": "Crispy duck snack",
+                  "price": "9.00 $",
+                  "ingredients": "Duck, rice powder, starch, glycerin, vegetable protein, salt. Nutritional content: protein 48, fat 0.5, fiber 1, ash 3.5, moisture 14. Store in a cool, dry place away from direct sunlight. Not for human consumption.",
+                  "info": "100g",
+                  "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4341421/extra_large/bae382f60f46c3f6ecf15ef8321cbe62.jpg",
+                  "quantity": "1"
+
+                },
+                {
+                  "id":18,
+                    "name": "Bone knot in duck coating",
+                    "price": "7.00 $",
+                    "ingredients": "Nutritional Content Percent: Protein 65, Fat 1.5, Ash 3, Fiber 2, Moisturizing 18 Components: Beef Skin, Duck Meat.",
+                    "info": "25cm",
+                    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4523404/original/96917362445bf5ddfd52e80deb9cd32c.jpg",
+                    "quantity": "1"
+
+                  },
+                  {
+                    "id":19,  
+                    "name": "Sneaky Tasty Choi Stick for chicken flavored dog",
+                    "price": "6.00 $",
+                    "ingredients":"Wheat germ, poultry products from chicken, whole wheat, wheat flour, chicken meat, baking soda, flavoring, preservatives. Nutritional content: 20% protein, 5% fat, 5% cellulose. Store in a cool, dry place away from direct sunlight. Not for human consumption.",
+                    "info": "50g",
+                    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300543/extra_large/5e69d99b6d6265bb0abedc2f904c38e7.jpg",
+                    "quantity": "1"
+ 
+                    
+                  },
+                  {
+                    "id":20,
+                    "name": "Sneaky Tasty Choi Stick for liver flavored dog",
+                    "price": "6.00 $",
+                    "ingredients":"Wheat germ, poultry products from chicken, whole wheat, wheat flour, chicken meat, baking soda, flavoring, preservatives. Nutritional content: 20% protein, 5% cellulose, 14% moisture. Store in a cool, dry place away from direct sunlight. Not for human consumption.",
+                    "info": "50g",
+                    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300551/extra_large/097c8c93c0927b25c12d46c167938a95.jpg",
+                    "quantity": "1"
+
+                  },
+                  {
+                    "id":21,
+                    "name": "Sneaky Tasty Choi Stick for dog with beef flavored",
+                    "price": "6.00 $",
+                    "ingredients": "Wheat germ, Louie chicken products, Whole wheat, Wheat flour, Chicken meat, Drinking soda, Flavors, Preservatives. Nutritional content: 20% protein, 5% fat, 5% cellulose, 14% moisture.Store in a cool, dry place away from direct sunlight. Not for human consumption.",
+                    "info": "50g",
+                    "images":  "https://d3m9l0v76dty0.cloudfront.net/system/photos/4300514/original/71aeb853a741ebbb0f9b20e2e035b196.jpg",
+                    "quantity": "1"
+
+                  }
+            
+]
